@@ -7,3 +7,7 @@
 
 ##New stuff
 test for git
+
+## local development
+
+1. open index.html in your browser
